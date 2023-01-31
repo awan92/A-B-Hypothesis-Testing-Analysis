@@ -30,7 +30,7 @@ One tailed Z-test was chosen to prove the hypothesis. Either one of these statem
 **Alternative Hypothesis (H1)**: Conversion rate in new page **better than** the conversion rate in old page
 
 ## Insight and Recommendation
-(Z-score = 0.578, p-value = 0.281) 
+(**Z-score** = 0.578, **p-value** = 0.281) 
 
 **Result:**
 
